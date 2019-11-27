@@ -5,5 +5,4 @@ Aprendiendo a generar repositorios en github
 ## 27 de noviembre de 2019
 
 + Esta es la **sesion 12** donde vamos a trabajar con **hithub**  
-
-+Estamos **editando ** el **branch** 
++ Estamos **editando** el **branch** 
